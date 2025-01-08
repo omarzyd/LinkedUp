@@ -69,3 +69,9 @@ We are following the **Scrum** methodology to build the LinkedUp platform increm
 - **Visual Studio 2022 or later**
 - **MySQL Database**
 - **.NET Core SDK**
+
+![Screenshot 2024-12-04 224329](https://github.com/user-attachments/assets/c4b0e261-3089-4720-a5e9-3ad19045159e)
+
+![WhatsApp Image 2024-12-22 at 05 12 58_2761c06b](https://github.com/user-attachments/assets/9aa724e1-1d9c-42d4-924b-f8ac4528dba7)
+![IMG-20241222-WA0005 1](https://github.com/user-attachments/assets/c82b8735-bb75-43e4-8f45-c29ec4c44143)
+
